@@ -1,7 +1,7 @@
 
 #!/usr/bin/python3
 #-*-coding:utf-8-*-
-# Made With ❤️ By Dapunta
+# Made With By Dapunta
 
 import requests,mechanize,bs4,sys,os,subprocess,uuid,random,time,re,base64,concurrent.futures,json,ipaddress
 from random import randint
